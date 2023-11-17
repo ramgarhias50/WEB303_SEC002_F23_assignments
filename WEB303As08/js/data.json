@@ -1,0 +1,51 @@
+[
+    {
+        "first_name": "John",
+        "last_name": "Smith",
+        "age": 35,
+        "occupation": "Engineer",
+        "hometown": "Chicago"
+    },
+    {
+        "first_name": "Emily",
+        "last_name": "Jones",
+        "age": 28,
+        "occupation": "Journalist",
+        "hometown": "New York"
+    },
+    {
+        "first_name": "Daniel",
+        "last_name": "Brown",
+        "age": 42,
+        "occupation": "Doctor",
+        "hometown": "Los Angeles"
+    },
+    {
+        "first_name": "Sophia",
+        "last_name": "Lee",
+        "age": 25,
+        "occupation": "Graphic Designer",
+        "hometown": "San Francisco"
+    },
+    {
+        "first_name": "Michael",
+        "last_name": "Clark",
+        "age": 30,
+        "occupation": "Teacher",
+        "hometown": "Boston"
+    },
+    {
+        "first_name": "Olivia",
+        "last_name": "Taylor",
+        "age": 31,
+        "occupation": "Software Developer",
+        "hometown": "Seattle"
+    },
+    {
+        "first_name": "Henry",
+        "last_name": "Miller",
+        "age": 38,
+        "occupation": "Architect",
+        "hometown": "Miami"
+    }
+]

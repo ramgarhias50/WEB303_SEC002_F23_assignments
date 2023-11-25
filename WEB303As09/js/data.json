@@ -1,0 +1,58 @@
+[
+    {
+        "first_name": "John",
+        "last_name": "Smith",
+        "age": 35,
+        "occupation": "Engineer",
+        "hometown": "Chicago",
+        "date_of_birth": "1987-05-15"
+    },
+    {
+        "first_name": "Emily",
+        "last_name": "Jones",
+        "age": 28,
+        "occupation": "Journalist",
+        "hometown": "New York",
+        "date_of_birth": "1995-08-22"
+    },
+    {
+        "first_name": "Daniel",
+        "last_name": "Brown",
+        "age": 42,
+        "occupation": "Doctor",
+        "hometown": "Los Angeles",
+        "date_of_birth": "1981-12-10"
+    },
+    {
+        "first_name": "Sophia",
+        "last_name": "Lee",
+        "age": 25,
+        "occupation": "Graphic Designer",
+        "hometown": "San Francisco",
+        "date_of_birth": "1998-03-05"
+    },
+    {
+        "first_name": "Michael",
+        "last_name": "Clark",
+        "age": 30,
+        "occupation": "Teacher",
+        "hometown": "Boston",
+        "date_of_birth": "1992-09-18"
+    },
+    {
+        "first_name": "Olivia",
+        "last_name": "Taylor",
+        "age": 31,
+        "occupation": "Software Developer",
+        "hometown": "Seattle",
+        "date_of_birth": "1991-11-30"
+    },
+    {
+        "first_name": "Henry",
+        "last_name": "Miller",
+        "age": 38,
+        "occupation": "Architect",
+        "hometown": "Miami",
+        "date_of_birth": "1984-07-02"
+    }
+]

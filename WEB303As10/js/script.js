@@ -15,7 +15,7 @@ function formValidate() {
   var termsCheckbox = $("#termsCheckbox").prop("checked");
 
   if (
-    password.length >= 2 &&
+    password.length >= 12 &&
     password == confirmPassword &&
     username &&
     termsCheckbox &&

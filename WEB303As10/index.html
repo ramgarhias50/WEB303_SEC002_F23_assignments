@@ -1,0 +1,36 @@
+<html>
+  <head>
+    <link href="css/style.css" rel="stylesheet" />
+  </head>
+
+  <body>
+    <h1>Gursimran Singh Assi</h1>
+    <form id="registrationForm">
+      <label for="username">Username:</label>
+      <input type="text" id="username" required onchange="formValidate()"/>
+
+      <label for="password">Password (at least 12 characters):</label>
+      <input type="password" id="password"  required onchange="formValidate()"/>
+
+      <label for="confirmPassword">Confirm Password:</label>
+      <input type="password" id="confirmPassword" required onchange="formValidate()"/>
+
+      <label>
+        <input type="checkbox" id="termsCheckbox"  onchange="formValidate()" /> I accept the terms of
+        service
+      </label>
+
+      <label for="country">Select your country:</label>
+      <select id="country" required onchange="formValidate()">
+        <option value="" disabled selected>Select your country</option>
+      </select>
+
+      <button type="submit" id="submitButton" disabled>Submit</button>
+    </form>
+
+    <div id="welcomeMessage"></div>
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/countries.js"></script>
+    <script type="text/javascript" src="js/script.js"></script>
+  </body>
+</html>
